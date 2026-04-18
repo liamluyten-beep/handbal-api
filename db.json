@@ -79,7 +79,7 @@
     },
     {
       "id": 12,
-      "name": "Louis Massinon   ",
+      "name": "Louis Massinon",
       "position": 7,
       "teamId": 1,
       "shirtNumber": 71
@@ -100,7 +100,7 @@
     },
     {
       "id": 16,
-      "name": "Arno Van Reusel ",
+      "name": "Arno Van Reusel",
       "position": 2,
       "teamId": 1,
       "shirtNumber": 93
@@ -116,7 +116,7 @@
       "name": "Wouter Van Put",
       "position": 8,
       "teamId": 1
-    },
+    }
   ],
   "teams": [
     {
@@ -124,7 +124,6 @@
       "name": "Heren 1",
       "level": "Senior"
     }
-
   ],
   "positions": [
     {
@@ -155,7 +154,7 @@
       "id": 7,
       "name": "Center Back"
     },
-     {
+    {
       "id": 8,
       "name": "Coach"
     }

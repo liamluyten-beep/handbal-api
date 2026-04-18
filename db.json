@@ -109,13 +109,15 @@
       "id": 17,
       "name": "Luc Vercauteren",
       "position": 8,
-      "teamId": 1
+      "teamId": 1,
+      "shirtNumber": "T1"
     },
     {
       "id": 18,
       "name": "Wouter Van Put",
       "position": 8,
-      "teamId": 1
+      "teamId": 1,
+      "shirtNumber": "T2"
     }
   ],
   "teams": [

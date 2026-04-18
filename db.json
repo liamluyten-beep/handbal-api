@@ -1,0 +1,176 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Cas Van Borm",
+      "position": 1,
+      "teamId": 1,
+      "shirtNumber": 1
+    },
+    {
+      "id": 2,
+      "name": "Elliot Doms",
+      "position": 6,
+      "teamId": 1,
+      "shirtNumber": 9
+    },
+    {
+      "id": 3,
+      "name": "Kwint Nees",
+      "position": 5,
+      "teamId": 1,
+      "shirtNumber": 4
+    },
+    {
+      "id": 4,
+      "name": "Stanley Savage",
+      "position": 1,
+      "teamId": 1,
+      "shirtNumber": 12
+    },
+    {
+      "id": 5,
+      "name": "Ilias Kiebooms",
+      "position": 5,
+      "teamId": 1,
+      "shirtNumber": 13
+    },
+    {
+      "id": 6,
+      "name": "Tybe Bortolin",
+      "position": 4,
+      "teamId": 1,
+      "shirtNumber": 23
+    },
+    {
+      "id": 7,
+      "name": "Stijn Van De Vliet",
+      "position": 7,
+      "teamId": 1,
+      "shirtNumber": 24
+    },
+    {
+      "id": 8,
+      "name": "Junior Antonissen",
+      "position": 3,
+      "teamId": 1,
+      "shirtNumber": 27
+    },
+    {
+      "id": 9,
+      "name": "Thibault Bortolin",
+      "position": 2,
+      "teamId": 1,
+      "shirtNumber": 28
+    },
+    {
+      "id": 10,
+      "name": "Eliot Baert",
+      "position": 4,
+      "teamId": 1,
+      "shirtNumber": 38
+    },
+    {
+      "id": 11,
+      "name": "Denzel Ndongfac",
+      "position": 5,
+      "teamId": 1,
+      "shirtNumber": 69
+    },
+    {
+      "id": 12,
+      "name": "Louis Massinon   ",
+      "position": 7,
+      "teamId": 1,
+      "shirtNumber": 71
+    },
+    {
+      "id": 13,
+      "name": "Wout Van Dyck",
+      "position": 2,
+      "teamId": 1,
+      "shirtNumber": 72
+    },
+    {
+      "id": 14,
+      "name": "Liam Luyten",
+      "position": 3,
+      "teamId": 1,
+      "shirtNumber": 77
+    },
+    {
+      "id": 15,
+      "name": "Arthur Van De Vel",
+      "position": 4,
+      "teamId": 1,
+      "shirtNumber": 80
+    },
+    {
+      "id": 16,
+      "name": "Arno Van Reusel ",
+      "position": 5,
+      "teamId": 1,
+      "shirtNumber": 93
+    },
+    {
+      "id": 17,
+      "name": "Luc Vercauteren",
+      "position": 8,
+      "teamId": 1
+    },
+    {
+      "id": 18,
+      "name": "Wouter Van Put",
+      "position": 8,
+      "teamId": 1
+    },
+    {
+      "id": 19,
+      "name": "Dirk Janssens",
+      "position": 1,
+      "teamId": 1
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Heren 1",
+      "level": "Senior"
+    }
+
+  ],
+  "positions": [
+    {
+      "id": 1,
+      "name": "Goalkeeper"
+    },
+    {
+      "id": 2,
+      "name": "Left Wing"
+    },
+    {
+      "id": 3,
+      "name": "Right Wing"
+    },
+    {
+      "id": 4,
+      "name": "Pivot"
+    },
+    {
+      "id": 5,
+      "name": "Left Back"
+    },
+    {
+      "id": 6,
+      "name": "Right Back"
+    },
+    {
+      "id": 7,
+      "name": "Center Back"
+    },
+     {
+      "id": 8,
+      "name": "Coach"
+    }
+  ]
+}

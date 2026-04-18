@@ -120,13 +120,23 @@
       "shirtNumber": "T2"
     }
   ],
-  "teams": [
-    {
-      "id": 1,
-      "name": "Heren 1",
-      "level": "Senior"
-    }
-  ],
+ "teams": [
+  {
+    "id": 1,
+    "name": "Heren 1",
+    "level": "Liga 1"
+  },
+  {
+    "id": 2,
+    "name": "Heren 2",
+    "level": "Liga 3"
+  },
+  {
+    "id": 3,
+    "name": "Dames 1",
+    "level": "2de Nationale"
+  }
+],
   "positions": [
     {
       "id": 1,

@@ -15,6 +15,27 @@
       "shirtNumber": 9
     },
     {
+      "id": 3,
+      "name": "Kwint Nees",
+      "position": 5,
+      "teamId": 1,
+      "shirtNumber": 4
+    },
+    {
+      "id": 4,
+      "name": "Stanley Savage",
+      "position": 1,
+      "teamId": 1,
+      "shirtNumber": 12
+    },
+    {
+      "id": 5,
+      "name": "Ilias Kiebooms",
+      "position": 5,
+      "teamId": 1,
+      "shirtNumber": 13
+    },
+    {
       "id": 6,
       "name": "Tybe Bortolin",
       "position": 4,
@@ -29,6 +50,13 @@
       "shirtNumber": 24
     },
     {
+      "id": 8,
+      "name": "Junior Antonissen",
+      "position": 3,
+      "teamId": 1,
+      "shirtNumber": 27
+    },
+    {
       "id": 9,
       "name": "Thibault Bortolin",
       "position": 2,
@@ -36,9 +64,23 @@
       "shirtNumber": 28
     },
     {
+      "id": 10,
+      "name": "Eliot Baert",
+      "position": 4,
+      "teamId": 1,
+      "shirtNumber": 38
+    },
+    {
+      "id": 11,
+      "name": "Denzel Ndongfac",
+      "position": 5,
+      "teamId": 1,
+      "shirtNumber": 69
+    },
+    {
       "id": 12,
       "name": "Louis Massinon",
-      "position": 5,
+      "position": 7,
       "teamId": 1,
       "shirtNumber": 71
     },
@@ -48,6 +90,20 @@
       "position": 3,
       "teamId": 1,
       "shirtNumber": 77
+    },
+    {
+      "id": 15,
+      "name": "Arthur Van De Vel",
+      "position": 4,
+      "teamId": 1,
+      "shirtNumber": 80
+    },
+    {
+      "id": 16,
+      "name": "Arno Van Reusel",
+      "position": 2,
+      "teamId": 1,
+      "shirtNumber": 93
     },
     {
       "id": 17,
@@ -62,70 +118,7 @@
       "position": 8,
       "teamId": 1,
       "shirtNumber": "T2"
-    },
-    {
-      "id": 19,
-      "name": "Hanne Geraets",
-      "position": 4,
-      "teamId": 3,
-      "shirtNumber": 26
-    },
-    {
-      "id": 21,
-      "name": "Noor Eycken",
-      "position": 3,
-      "teamId": 3,
-      "shirtNumber": 19
-    },
-    {
-      "id": 22,
-      "name": "Katrijn Antonissen",
-      "position": 1,
-      "teamId": 3,
-      "shirtNumber": 16
-    },
-    {
-      "id": 24,
-      "name": "Jinte André",
-      "position": 6,
-      "teamId": 3,
-      "shirtNumber": 77
-    },
-    {
-      "id": 27,
-      "name": "Pippa Matthys",
-      "position": 7,
-      "teamId": 3,
-      "shirtNumber": 4
-    },
-    {
-      "id": 28,
-      "name": "Anneleen Sterken",
-      "position": 5,
-      "teamId": 3,
-      "shirtNumber": 8
-    },
-    {
-      "id": 29,
-      "name": "Sara Lens",
-      "position": 2,
-      "teamId": 3,
-      "shirtNumber": 45
-    },
-    {
-      "id": 36,
-      "name": "Seyran Kroyan",
-      "position": 8,
-      "teamId": 3,
-      "shirtNumber": "T1"
-    },
-    {
-      "id": 37,
-      "name": "Roel Kiebooms",
-      "position": 8,
-      "teamId": 3,
-      "shirtNumber": "T2"
-    },
+    }
   ],
   "teams": [
     {

@@ -127,15 +127,19 @@
       "level": "Liga 1"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Heren 2",
       "level": "Liga 3"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Dames 1",
       "level": "2de Nationale"
     }
+    {
+      "id": 4, 
+      "name": "Dames 2",
+      "level": "Regio AVB"
   ],
   "positions": [
     {
